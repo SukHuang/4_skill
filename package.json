@@ -1,6 +1,6 @@
 {
   "name": "4-skill",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Three practical AI agent skills for repository understanding, research, and delivery planning",
   "type": "module",
   "bin": {
